@@ -1,0 +1,39 @@
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.csproj.GenerateResource.Cache
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.Properties.Resources.resources
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.CompassDemo.resources
+C:\Users\bcampbel\Desktop\test\testc\testc\bin\Debug\CompassDemo.exe
+C:\Users\bcampbel\Desktop\test\testc\testc\bin\Debug\CompassDemo.pdb
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.exe
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.pdb
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\CompassDemo.Startup.resources
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\CompassDemo.pdb
+C:\Users\Savis\Desktop\testc\testc\bin\Debug\CompassDemo.exe
+C:\Users\Savis\Desktop\testc\testc\bin\Debug\CompassDemo.pdb
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\CompassDemo.CompassDemo.resources
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\CompassDemo.Properties.Resources.resources
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\CompassDemo.Startup.resources
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\ResGen.read.1.tlog
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\ResGen.write.1.tlog
+C:\Users\Savis\Desktop\testc\testc\obj\Debug\CompassDemo.exe
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\CompassDemo.exe
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\CompassDemo.pdb
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\bin\Debug\CompassDemo.exe
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\bin\Debug\CompassDemo.pdb
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\CompassDemo.CompassDemo.resources
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\CompassDemo.Properties.Resources.resources
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\CompassDemo.Startup.resources
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\ResGen.read.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\Compass Demo\testc\testc\obj\Debug\ResGen.write.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\CompassDemo.exe
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\CompassDemo.pdb
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\bin\Debug\CompassDemo.exe
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\bin\Debug\CompassDemo.pdb
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\CompassDemo.CompassDemo.resources
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\CompassDemo.Properties.Resources.resources
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\CompassDemo.Startup.resources
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\ResGen.read.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\Compass Demo\testc\testc\obj\Debug\ResGen.write.1.tlog

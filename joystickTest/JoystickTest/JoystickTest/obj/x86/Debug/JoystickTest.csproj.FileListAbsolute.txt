@@ -1,0 +1,18 @@
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\bin\Debug\JoystickTest.exe
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\bin\Debug\JoystickTest.pdb
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.Form1.resources
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.Properties.Resources.resources
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.exe
+C:\Users\Savis\Desktop\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.pdb
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.exe
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.pdb
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\bin\Debug\JoystickTest.exe
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\bin\Debug\JoystickTest.pdb
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.Form1.resources
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\JoystickTest.Properties.Resources.resources
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\joystickTest\JoystickTest\JoystickTest\obj\x86\Debug\GenerateResource.write.1.tlog

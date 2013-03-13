@@ -1,0 +1,9 @@
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\bin\Debug\XBeeTester.exe
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\bin\Debug\XBeeTester.pdb
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\XBeeTester.Form1.resources
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\XBeeTester.Properties.Resources.resources
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\XBeeTester.exe
+C:\Users\Bob\Documents\School Crap\Senior Design\Software\testing\XBeeTester\XBeeTester\obj\x86\Debug\XBeeTester.pdb

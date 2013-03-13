@@ -1,0 +1,8 @@
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\testc.Form1.resources
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\testc.Properties.Resources.resources
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\testc.csproj.GenerateResource.Cache
+C:\Users\bcampbel\Desktop\test\testc\testc\bin\Debug\testc.exe
+C:\Users\bcampbel\Desktop\test\testc\testc\bin\Debug\testc.pdb
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\testc.exe
+C:\Users\bcampbel\Desktop\test\testc\testc\obj\Debug\testc.pdb
