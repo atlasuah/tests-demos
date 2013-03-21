@@ -1,0 +1,10 @@
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\bin\Debug\MapperTest.exe
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\bin\Debug\MapperTest.pdb
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\MapperTest.Properties.Resources.resources
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\MapperTest.exe
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\MapperTest\obj\x86\Debug\MapperTest.pdb
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\obj\x86\Debug\MapperTest.exe
+D:\Documents\School Crap\UAH\Senior Design\Tests and Demos\MapperTest\MapperTest\obj\x86\Debug\MapperTest.pdb
