@@ -45,7 +45,7 @@ namespace MapperTest
         bool firstPoint = true;
         bool mouseDown = false;
         bool drawNewPoint = false;
-        bool scaleDrag = false;
+        bool scaleDrag = true;
 
         public MapperDemo()
         {
@@ -207,14 +207,14 @@ namespace MapperTest
             else if (e.KeyCode == Keys.ControlKey)
                 drawNewPoint = true;
             else if (e.KeyCode == Keys.ShiftKey)
-                scaleDrag = true;
+                scaleDrag = false;
         }
         private void MappingForm_KeyUp(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.ControlKey)
                 drawNewPoint = false;
             if (e.KeyCode == Keys.ShiftKey)
-                scaleDrag = false;
+                scaleDrag = true;
         }
 
         private void DrawMap()
